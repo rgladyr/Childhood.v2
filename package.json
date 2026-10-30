@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "PaperFly Childhood.v2",
   "description": "Тестовый UPM",
-  "unity": "6000.0"
+  "unity": "6000.0",
   "author": {
     "name": "Роман Гладырь"
   }
