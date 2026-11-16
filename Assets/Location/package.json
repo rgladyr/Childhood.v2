@@ -1,6 +1,6 @@
 {
   "name": "com.paperfly.childhood.v2",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "displayName": "PaperFly Childhood.v2",
   "description": "Локация PaperFly. Замените имя, displayName и описание при создании репозитория из шаблона.",
   "unity": "6000.0",

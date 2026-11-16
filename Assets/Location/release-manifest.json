@@ -1,7 +1,7 @@
 {
     "format": 2,
     "package": "com.paperfly.childhood.v2",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "renderKitVersion": "0.1.0",
     "files": [
         {
@@ -12,7 +12,7 @@
         {
             "path": "Location-Art.prefab",
             "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "hash": "8cc777df923b7e499f53ac08969f78eed78de59aeb3c244b5cbbb6f5caca4344"
+            "hash": "1fa59fbfea1976df2d28bb485dee0aa5d8e9263dd2b152b3a756b9ca483ad9be"
         },
         {
             "path": "Location-Art.prefab.meta",
@@ -122,7 +122,7 @@
         {
             "path": "Models/Childhood.v2.fbx",
             "guid": "4655fd4b247302245aa444e6c6c0c725",
-            "hash": "48927ba17897a675a4c01211083a2ce97082a3afe4d5305f27b9ea1723bdc44d"
+            "hash": "7101a7d4aae4f227a6866fdc334b0b0ee50ac3ebdb453ca55f66b181a67b7753"
         },
         {
             "path": "Models/Childhood.v2.fbx.meta",
@@ -202,7 +202,7 @@
         {
             "path": "package.json",
             "guid": "cd91a13c8bb825248bc05438ce58c75c",
-            "hash": "a1bb85af537a7b1fe56e5fb8e9a2780c458a260e0b211802b9a87aa6cca3d317"
+            "hash": "256e1e69bf5cb1bf833a093794be06f843631171c3377527bdda0593761cf272"
         },
         {
             "path": "package.json.meta",
@@ -245,20 +245,6 @@
             "path": "Location-Art/Childhood.v2",
             "type": "GameObject",
             "fileId": 4763484317426602907
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
-            "type": "Transform",
-            "fileId": 3757791370452820425
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
-            "type": "Transform",
-            "fileId": 3004567826134721359
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
@@ -2706,13 +2692,6 @@
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
             "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
-            "type": "GameObject",
-            "fileId": 7046806524721289621
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
             "path": "Location-Art/Childhood.v2/SlideSafari.v1.1",
             "type": "GameObject",
             "fileId": 6649559337798016689
@@ -2877,13 +2856,6 @@
             "path": "Location-Art/Childhood.v2/Tent.Banana.v1.1",
             "type": "GameObject",
             "fileId": 4590017939100598344
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
-            "type": "GameObject",
-            "fileId": 485025704487379245
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
@@ -4613,27 +4585,6 @@
             "path": "Location-Art/Childhood.v2/Streetlight.v1.16",
             "type": "MeshCollider",
             "fileId": 5350147529893715017
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
-            "type": "MeshFilter",
-            "fileId": 8916439965490186031
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
-            "type": "MeshRenderer",
-            "fileId": 1478642438884625372
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
-            "type": "MeshCollider",
-            "fileId": 7715613380614902297
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
@@ -10462,27 +10413,6 @@
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
             "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
-            "type": "MeshFilter",
-            "fileId": 5191954592333717689
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
-            "type": "MeshRenderer",
-            "fileId": 7052976916053504735
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
-            "type": "MeshCollider",
-            "fileId": 3140223639473980866
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
             "path": "Location-Art/Childhood.v2/LOD.GROUP/Apple.Cinnamon.v1.1",
             "type": "GameObject",
             "fileId": 8451405171342570444
@@ -14996,6 +14926,41 @@
             "fileId": 2129140818239991948
         },
         {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/Borderlands.v1.1",
+            "type": "Transform",
+            "fileId": 2989896874137538410
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/Borderlands.v1.1",
+            "type": "GameObject",
+            "fileId": 4729304417565827922
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/Borderlands.v1.1",
+            "type": "MeshFilter",
+            "fileId": 1948684887512108231
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/Borderlands.v1.1",
+            "type": "MeshRenderer",
+            "fileId": 9165917612511993194
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/Borderlands.v1.1",
+            "type": "MeshCollider",
+            "fileId": 743386722823994476
+        },
+        {
             "guid": "4655fd4b247302245aa444e6c6c0c725",
             "asset": "Models/Childhood.v2.fbx",
             "path": "Childhood.v2",
@@ -19439,13 +19404,6 @@
             "path": "Childhood.v2/Ravine.Arc.v1.1_LOD1",
             "type": "MeshFilter",
             "fileId": -4350132894980285695
-        },
-        {
-            "guid": "4655fd4b247302245aa444e6c6c0c725",
-            "asset": "Models/Childhood.v2.fbx",
-            "path": "Border.Land.v1.1",
-            "type": "Mesh",
-            "fileId": -4345471473049242956
         },
         {
             "guid": "4655fd4b247302245aa444e6c6c0c725",
@@ -24154,13 +24112,6 @@
         {
             "guid": "4655fd4b247302245aa444e6c6c0c725",
             "asset": "Models/Childhood.v2.fbx",
-            "path": "Childhood.v2/Border.Land.v1.1",
-            "type": "MeshFilter",
-            "fileId": 493044514937900659
-        },
-        {
-            "guid": "4655fd4b247302245aa444e6c6c0c725",
-            "asset": "Models/Childhood.v2.fbx",
             "path": "Childhood.v2/Tent.Arc.v1.1",
             "type": "MeshFilter",
             "fileId": 503300184272760754
@@ -27244,20 +27195,6 @@
             "path": "Childhood.v2/LOD.GROUP/Thuja.Lief001.v1.10/Thuja.Lief001.v1.11_LOD1",
             "type": "Transform",
             "fileId": 3385625308504452530
-        },
-        {
-            "guid": "4655fd4b247302245aa444e6c6c0c725",
-            "asset": "Models/Childhood.v2.fbx",
-            "path": "Childhood.v2/Border.Land.v1.1",
-            "type": "GameObject",
-            "fileId": 3391610039813584735
-        },
-        {
-            "guid": "4655fd4b247302245aa444e6c6c0c725",
-            "asset": "Models/Childhood.v2.fbx",
-            "path": "Childhood.v2/Border.Land.v1.1",
-            "type": "MeshRenderer",
-            "fileId": 3403339564082813973
         },
         {
             "guid": "4655fd4b247302245aa444e6c6c0c725",
@@ -30930,13 +30867,6 @@
         {
             "guid": "4655fd4b247302245aa444e6c6c0c725",
             "asset": "Models/Childhood.v2.fbx",
-            "path": "Childhood.v2/Border.Land.v1.1",
-            "type": "MeshCollider",
-            "fileId": 7299898135507626760
-        },
-        {
-            "guid": "4655fd4b247302245aa444e6c6c0c725",
-            "asset": "Models/Childhood.v2.fbx",
             "path": "Childhood.v2/Border.Tree.v1.5",
             "type": "MeshFilter",
             "fileId": 7303679880035753091
@@ -31101,13 +31031,6 @@
             "path": "Childhood.v2/SlideSafari.v1.1",
             "type": "Transform",
             "fileId": 7449930204958398419
-        },
-        {
-            "guid": "4655fd4b247302245aa444e6c6c0c725",
-            "asset": "Models/Childhood.v2.fbx",
-            "path": "Childhood.v2/Border.Land.v1.1",
-            "type": "Transform",
-            "fileId": 7451342930381737349
         },
         {
             "guid": "4655fd4b247302245aa444e6c6c0c725",
@@ -32599,6 +32522,48 @@
             "path": "Childhood.v2/Road.Curbs.v2.1",
             "type": "MeshFilter",
             "fileId": 9221486949220268379
+        },
+        {
+            "guid": "4655fd4b247302245aa444e6c6c0c725",
+            "asset": "Models/Childhood.v2.fbx",
+            "path": "Childhood.v2/Borderlands.v1.1",
+            "type": "Transform",
+            "fileId": -1755245846006160992
+        },
+        {
+            "guid": "4655fd4b247302245aa444e6c6c0c725",
+            "asset": "Models/Childhood.v2.fbx",
+            "path": "Childhood.v2/Borderlands.v1.1",
+            "type": "GameObject",
+            "fileId": 1115765853642821016
+        },
+        {
+            "guid": "4655fd4b247302245aa444e6c6c0c725",
+            "asset": "Models/Childhood.v2.fbx",
+            "path": "Childhood.v2/Borderlands.v1.1",
+            "type": "MeshFilter",
+            "fileId": -3039581225065733619
+        },
+        {
+            "guid": "4655fd4b247302245aa444e6c6c0c725",
+            "asset": "Models/Childhood.v2.fbx",
+            "path": "Childhood.v2/Borderlands.v1.1",
+            "type": "MeshRenderer",
+            "fileId": 3596621209419150240
+        },
+        {
+            "guid": "4655fd4b247302245aa444e6c6c0c725",
+            "asset": "Models/Childhood.v2.fbx",
+            "path": "Childhood.v2/Borderlands.v1.1",
+            "type": "MeshCollider",
+            "fileId": -4284286470833040730
+        },
+        {
+            "guid": "4655fd4b247302245aa444e6c6c0c725",
+            "asset": "Models/Childhood.v2.fbx",
+            "path": "Borderlands.v1.1",
+            "type": "Mesh",
+            "fileId": 4509699854227857885
         }
     ]
 }
