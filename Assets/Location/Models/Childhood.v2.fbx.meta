@@ -8,42 +8,72 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Attribute
-    second: {fileID: 2100000, guid: f93b4f6484fdb134b9369935b6aada20, type: 2}
+    second: {fileID: 2100000, guid: ab9f38d5f6fa2f84ba1421d33b7e4d43, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Attribute.ClipFace
-    second: {fileID: 2100000, guid: 0084e26d5a7548343a84037cd65ebaa9, type: 2}
+    second: {fileID: 2100000, guid: 922a2992b25ef0245a65f9d45b5b7d8e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Border.TreeBush
-    second: {fileID: 2100000, guid: 8076d38394ab5c442a54621228c29a60, type: 2}
+    second: {fileID: 2100000, guid: 4676a0cc3996b0f47a41661854573e9a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Monkey.Coverage
-    second: {fileID: 2100000, guid: e0f001cafead30a44be7755c912d9086, type: 2}
+    second: {fileID: 2100000, guid: 3fc0d8b55d707a9458e053ba4fd718f4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Pier.Bridge.v1.1_LOD1
-    second: {fileID: 2100000, guid: 841a85cb647ff4644a5279ad8e5f8882, type: 2}
+    second: {fileID: 2100000, guid: 7cfb238e500f1a746aa4bf3d75ddcd48, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Pier.Wall.v1.1_LOD1
-    second: {fileID: 2100000, guid: 2716a84199352ce44b03656b0a5d15cb, type: 2}
+    second: {fileID: 2100000, guid: 5aca9635463927542a6a86e517a4a85b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Pier.Wall.v2.1_LOD1
-    second: {fileID: 2100000, guid: c04fb77a37222b5488e05ea5c91d2564, type: 2}
+    second: {fileID: 2100000, guid: 01360c210c0e1b144bee44ce3ab8098f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ravine.LiefSlide
-    second: {fileID: 2100000, guid: 82353f0661618ff47a51e4fd1fa03350, type: 2}
+    second: {fileID: 2100000, guid: 16f5fd72661f26147ae22cc9c8b11a5f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Image_0.009
+    second: {fileID: 2800000, guid: a547fcaa5ece1d240b76edbb59785ac9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LiefSlade_albedo
+    second: {fileID: 2800000, guid: b3214c9aea5da7740b860b8ff81edaac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Monkey.Coverage_color
+    second: {fileID: 2800000, guid: 45fee453eca7dbe4285072c35cd99a60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pier.Bridge.v1_LOD1_color1024
+    second: {fileID: 2800000, guid: 0ed4bc70303897f43946705bc36535a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pier.Wall.v1.1_LOD1_color1024
+    second: {fileID: 2800000, guid: 19daf502a40d9104aa59e0b0841af81d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pier.Wall.v2.1_LOD1_color1024
+    second: {fileID: 2800000, guid: b647c80888b5ccb4c85d91e2d4d58814, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

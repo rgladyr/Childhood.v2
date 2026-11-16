@@ -1,7 +1,7 @@
 {
     "format": 2,
     "package": "com.paperfly.childhood.v2",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "renderKitVersion": "0.1.0",
     "files": [
         {
@@ -30,89 +30,84 @@
             "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         },
         {
-            "path": "Materials/Childhood.v2.meta",
+            "path": "Materials/Attribute.ClipFace.mat",
+            "guid": "922a2992b25ef0245a65f9d45b5b7d8e",
+            "hash": "f0013ca5633dc5e18d4c6e0b276ecead92de880286b235fa047cb762a24fdf57"
+        },
+        {
+            "path": "Materials/Attribute.ClipFace.mat.meta",
             "guid": "",
-            "hash": "f276fdd8e7ff3fe6cad623ea47de13204a307f244bb1424493882c197beb2e8a"
+            "hash": "1c4be0065b40b5cd585e98abfe76a16315e4a6c92814bc02519210679a37b833"
         },
         {
-            "path": "Materials/Childhood.v2/Attribute.ClipFace.mat",
-            "guid": "0084e26d5a7548343a84037cd65ebaa9",
-            "hash": "f4e4f33c35716572d5610aed40560ff5d07d53425ed1a8194465a96467eab9bb"
+            "path": "Materials/Attribute.mat",
+            "guid": "ab9f38d5f6fa2f84ba1421d33b7e4d43",
+            "hash": "a0b080e1aaad60a296bd0907490efc724f07e7374980568634c3d4bdebbd47d7"
         },
         {
-            "path": "Materials/Childhood.v2/Attribute.ClipFace.mat.meta",
+            "path": "Materials/Attribute.mat.meta",
             "guid": "",
-            "hash": "f14ea3420de0503058a5696e2be88d192df0a5064c4a3bf2b54952df0900c976"
+            "hash": "0e9bd2f34bd7a4fda39b0b98c9128bd1f9384c9225397114cbf385b58129f5c0"
         },
         {
-            "path": "Materials/Childhood.v2/Attribute.mat",
-            "guid": "f93b4f6484fdb134b9369935b6aada20",
-            "hash": "bc1cfb4fa478ded5c0de64e21f4c9a1aa9df133512b910eecd52c0f86856454b"
+            "path": "Materials/Border.TreeBush.mat",
+            "guid": "4676a0cc3996b0f47a41661854573e9a",
+            "hash": "e59df0868ba56dc7d66248f464f5a5f77276d081c350515efda4ef3aabf50b02"
         },
         {
-            "path": "Materials/Childhood.v2/Attribute.mat.meta",
+            "path": "Materials/Border.TreeBush.mat.meta",
             "guid": "",
-            "hash": "6fe8c8c589134ba554af03478c5483788c621ef412f2dc1066027c208c23285e"
+            "hash": "0d5bc8385e0238368957e44123051f9e3138a8e9e95ac652154b97684fed54e0"
         },
         {
-            "path": "Materials/Childhood.v2/Border.TreeBush.mat",
-            "guid": "8076d38394ab5c442a54621228c29a60",
-            "hash": "ce2e9e8c5a26cabeccbbf9316df33dc097caa4ded9c44591ca1f6b6c8e9d1fe6"
+            "path": "Materials/Monkey.Coverage.mat",
+            "guid": "3fc0d8b55d707a9458e053ba4fd718f4",
+            "hash": "6c5428826d614321f47330fea9e6a7a27ac1b5a55be1d7f29f5d577a2e54e9c8"
         },
         {
-            "path": "Materials/Childhood.v2/Border.TreeBush.mat.meta",
+            "path": "Materials/Monkey.Coverage.mat.meta",
             "guid": "",
-            "hash": "520670efb8c81352e230f62890122f7df71929f7341e7d2a9fa18fd409c3c218"
+            "hash": "4d9e8186c8176e66a2480cce966a0406b536dc136c0dbd851a608f7c34f571c8"
         },
         {
-            "path": "Materials/Childhood.v2/Monkey.Coverage.mat",
-            "guid": "e0f001cafead30a44be7755c912d9086",
-            "hash": "940cf41e46ed5484bcd590988de121726f7ee1ac9a777881968bb8eedd204999"
+            "path": "Materials/Pier.Bridge.v1.1_LOD1.mat",
+            "guid": "7cfb238e500f1a746aa4bf3d75ddcd48",
+            "hash": "a9b5432cb3b16be59d3f2c7e6f1acda30095a1820e9f9cc6886ea534bd1e907b"
         },
         {
-            "path": "Materials/Childhood.v2/Monkey.Coverage.mat.meta",
+            "path": "Materials/Pier.Bridge.v1.1_LOD1.mat.meta",
             "guid": "",
-            "hash": "9f16ec8012f3be653f69a6b0b180d8d5cf9aa2e62752d6749407c5d76f8a6e64"
+            "hash": "6ae70774d8356e9aa8233c7ee633c2ba250adb1fe38ef3f6712bd4955716dd9d"
         },
         {
-            "path": "Materials/Childhood.v2/Pier.Bridge.v1.1_LOD1.mat",
-            "guid": "841a85cb647ff4644a5279ad8e5f8882",
-            "hash": "62df4902cf18193d02425e0298a3b2e3928ad31089a6471854a9e50b64f5dd99"
+            "path": "Materials/Pier.Wall.v1.1_LOD1.mat",
+            "guid": "5aca9635463927542a6a86e517a4a85b",
+            "hash": "cc9976dd5936f859c49d57be1286a4d86dda6790e94c36f2fec6a5042682d0ac"
         },
         {
-            "path": "Materials/Childhood.v2/Pier.Bridge.v1.1_LOD1.mat.meta",
+            "path": "Materials/Pier.Wall.v1.1_LOD1.mat.meta",
             "guid": "",
-            "hash": "5b86055b1d54bd9250769fd336b5c3d1255db4319a9f950fb4ba4625f9682344"
+            "hash": "ddd31e62187ad242f9cd003ef847e092883ac7d1aa8819bbe2eb6720ed845ddd"
         },
         {
-            "path": "Materials/Childhood.v2/Pier.Wall.v1.1_LOD1.mat",
-            "guid": "2716a84199352ce44b03656b0a5d15cb",
-            "hash": "f4a03e85c11b32a09273e5d345a2049d1ea4c7cb315be9faab9107d11eb991e2"
+            "path": "Materials/Pier.Wall.v2.1_LOD1.mat",
+            "guid": "01360c210c0e1b144bee44ce3ab8098f",
+            "hash": "2dc41def5188b8130263f5234ecba97799ea9c0b5d440757394129a2dc8442bb"
         },
         {
-            "path": "Materials/Childhood.v2/Pier.Wall.v1.1_LOD1.mat.meta",
+            "path": "Materials/Pier.Wall.v2.1_LOD1.mat.meta",
             "guid": "",
-            "hash": "8243cd96913ec8f03c13f1a4999dee1bc20e6335438fc415c50dc352d743fa1d"
+            "hash": "381f71e79eaed01fdee8f56910121675ccbee1c43789c0a9db353877572fbe4f"
         },
         {
-            "path": "Materials/Childhood.v2/Pier.Wall.v2.1_LOD1.mat",
-            "guid": "c04fb77a37222b5488e05ea5c91d2564",
-            "hash": "cb0eae33dd1634bd0df69f06c5a1d2758669af28469a50f7242b952890f9e43b"
+            "path": "Materials/Ravine.LiefSlide.mat",
+            "guid": "16f5fd72661f26147ae22cc9c8b11a5f",
+            "hash": "4b094b1a53a16f6d3107625b4339bd1d030a28a61a9355b54133ccc530057121"
         },
         {
-            "path": "Materials/Childhood.v2/Pier.Wall.v2.1_LOD1.mat.meta",
+            "path": "Materials/Ravine.LiefSlide.mat.meta",
             "guid": "",
-            "hash": "aad7e0079915f0dc33faf1966f0e4fabaf10e4712dbc2fcbac7ed4e756edb7f5"
-        },
-        {
-            "path": "Materials/Childhood.v2/Ravine.LiefSlide.mat",
-            "guid": "82353f0661618ff47a51e4fd1fa03350",
-            "hash": "a7e0c26bff9d2aae83fb15ee8301787854a0113bfcbd71242d2d26a3372bc940"
-        },
-        {
-            "path": "Materials/Childhood.v2/Ravine.LiefSlide.mat.meta",
-            "guid": "",
-            "hash": "47e1cce25689d79a94317aec467e48d1e99dc0f5f47b492e6ecd662f6ee95fa0"
+            "hash": "cf9a40a6e57dda0813b3012293424a5d887424369124fa6e7f9dab35d7353261"
         },
         {
             "path": "Models.meta",
@@ -132,7 +127,7 @@
         {
             "path": "Models/Childhood.v2.fbx.meta",
             "guid": "",
-            "hash": "bf6a276fabb8407d5fa8e80b10e01b0786dc43fc24f61e4ef46676dd603d7a14"
+            "hash": "d3fa416673244fc87b548d1baf0007d3e6a6be14905d6daae27df23742451241"
         },
         {
             "path": "Textures.meta",
@@ -145,9 +140,69 @@
             "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         },
         {
+            "path": "Textures/Image_0.009.png",
+            "guid": "a547fcaa5ece1d240b76edbb59785ac9",
+            "hash": "071c13fd48fe88de03551dde137701b24d1c5b8b61921acdd8bf249c836ff14e"
+        },
+        {
+            "path": "Textures/Image_0.009.png.meta",
+            "guid": "",
+            "hash": "7472a2114d53ef8e95b40c9d3c1e54dacf42f384ee1b0c775851d373675846a3"
+        },
+        {
+            "path": "Textures/LiefSlade_albedo.jpg",
+            "guid": "b3214c9aea5da7740b860b8ff81edaac",
+            "hash": "8efb2554e1ff87fbbae69fa3feefd9211eb2f251228cd8ed2e3e8f5aca66e34c"
+        },
+        {
+            "path": "Textures/LiefSlade_albedo.jpg.meta",
+            "guid": "",
+            "hash": "3678bdebe0972bae14382c1c6f25b16941e62b520978632310d365c4d8b7e963"
+        },
+        {
+            "path": "Textures/Monkey.Coverage_color.jpg",
+            "guid": "45fee453eca7dbe4285072c35cd99a60",
+            "hash": "31431a14762d37a84231ec3b4a49a6e0d320b75c541d3a101f4bfb6fa945db5f"
+        },
+        {
+            "path": "Textures/Monkey.Coverage_color.jpg.meta",
+            "guid": "",
+            "hash": "b5d8aca6b4668076175f131048b5e7af609938231fd38e3470f7c52ed7bb9f12"
+        },
+        {
+            "path": "Textures/Pier.Bridge.v1_LOD1_color1024.jpg",
+            "guid": "0ed4bc70303897f43946705bc36535a8",
+            "hash": "49fcbb6a36c2d522c85f357323b8726f5ea37f16b4fc99fe2e4f896020277921"
+        },
+        {
+            "path": "Textures/Pier.Bridge.v1_LOD1_color1024.jpg.meta",
+            "guid": "",
+            "hash": "281880b761f8a4b0b8ba6e293358ead175b3e3b029c5d183f29aa4c26eb04459"
+        },
+        {
+            "path": "Textures/Pier.Wall.v1.1_LOD1_color1024.jpg",
+            "guid": "19daf502a40d9104aa59e0b0841af81d",
+            "hash": "b461f7a30556d2aac0268626fccfe8433f2c3fa9a688974a625519e887c49957"
+        },
+        {
+            "path": "Textures/Pier.Wall.v1.1_LOD1_color1024.jpg.meta",
+            "guid": "",
+            "hash": "ca3a474e819ebcc073b913736bea37ba3235b485ea39300d60ffd5ec2c7ae439"
+        },
+        {
+            "path": "Textures/Pier.Wall.v2.1_LOD1_color1024.jpg",
+            "guid": "b647c80888b5ccb4c85d91e2d4d58814",
+            "hash": "06f83787ca96bb3fc3bec9839a64d2e2b728b4745c201d6714b8435c05acec35"
+        },
+        {
+            "path": "Textures/Pier.Wall.v2.1_LOD1_color1024.jpg.meta",
+            "guid": "",
+            "hash": "c21935bb3523d9e3c1d50b36c4a3451cf3f02ef365b7bd01d0e13d63ac8355df"
+        },
+        {
             "path": "package.json",
             "guid": "cd91a13c8bb825248bc05438ce58c75c",
-            "hash": "af30fc8870d1fef925f630a13d5a2f00980d97e6902a356945ae1fcfa0b8871b"
+            "hash": "a1bb85af537a7b1fe56e5fb8e9a2780c458a260e0b211802b9a87aa6cca3d317"
         },
         {
             "path": "package.json.meta",
