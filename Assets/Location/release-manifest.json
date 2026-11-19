@@ -1,7 +1,7 @@
 {
     "format": 2,
     "package": "com.paperfly.childhood.v2",
-    "version": "5.0.0",
+    "version": "5.1.0",
     "renderKitVersion": "0.1.0",
     "files": [
         {
@@ -12,7 +12,7 @@
         {
             "path": "Location-Art.prefab",
             "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "hash": "25995b9de47847afdfeb0cdebaccc59f93cca5e10517a7eca83024e8b6ad56a3"
+            "hash": "19663e1a7395fe1ee58f35ed3fa089ae408888e34f71aa67b0a77f8671df2bb5"
         },
         {
             "path": "Location-Art.prefab.meta",
@@ -212,7 +212,7 @@
         {
             "path": "package.json",
             "guid": "cd91a13c8bb825248bc05438ce58c75c",
-            "hash": "742b31899830d36486386d514ad385bf17e70c650c7638902e66dcebfdea80c0"
+            "hash": "3b1817b646fb3aa5069fd127e6b1bc4c7db3b3d4b98fe1d6a6c0726c5975b113"
         },
         {
             "path": "package.json.meta",
@@ -255,13 +255,6 @@
             "path": "Location-Art/Childhood.v2",
             "type": "GameObject",
             "fileId": 518748737437689537
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
-            "type": "Transform",
-            "fileId": 8146985143154955411
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
@@ -3734,13 +3727,6 @@
             "path": "Location-Art/Childhood.v2/Ravine.Roots.v2.1",
             "type": "GameObject",
             "fileId": 4323397044971317666
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
-            "type": "GameObject",
-            "fileId": 4869117747564106871
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
@@ -7948,27 +7934,6 @@
             "path": "Location-Art/Childhood.v2/Tree.Lief001.v1.3",
             "type": "MeshCollider",
             "fileId": 3558715994823884686
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
-            "type": "MeshFilter",
-            "fileId": 4509284572849975925
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
-            "type": "MeshRenderer",
-            "fileId": 5885234887890681478
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
-            "type": "MeshCollider",
-            "fileId": 3331223331007489859
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
